@@ -1,5 +1,9 @@
 # Configs
 
+## System Preferences->Keyboard->shortcuts
+### Keyboard
+Move focus to the Dock ^D
+
 ## KeyBindings
 mkdir -p ~/Library/KeyBindings
 
@@ -37,6 +41,8 @@ https://github.com/pqrs-org/Karabiner-Elements/issues/1160
 keymap location:
 ~/Library/Application Support/JetBrains/IntelliJIdea2020.2/jba_config/mac.keymaps
 
+## taskbar
+move dock to the left side
 
 # Unresolved questions
 
