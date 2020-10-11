@@ -26,7 +26,7 @@ defaults write -g NSBrowserColumnAnimationSpeedMultiplier -float 0
 
 # showing the Dock
 defaults write com.apple.dock autohide-time-modifier -float 0
-defaults write com.apple.dock autohide-delay -float 0.75
+defaults write com.apple.dock autohide-delay -float 0
 
 # showing and hiding Mission Control, command+numbers
 defaults write com.apple.dock expose-animation-duration -float 0

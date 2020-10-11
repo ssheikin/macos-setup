@@ -21,7 +21,7 @@ Configure only necessary shortcuts, disable others.
 |                                        |                        |
 |----------------------------------------|------------------------|
 |Move focus to the menu bar              |^ F2                    |   
-|Move focus to the Dock                  |^ D                     |  
+|Move focus to the Dock                  |^ `                     |  
 |Move focus to the status menus          |^ F8                    |   
 
 ### Spotlight
@@ -44,7 +44,7 @@ As no better solution found so far utilize the built-in dock.
 * hide by default
 * utilize shortcut Move focus to the Dock
 * done via disable_animations.sh
-    * show fast but with delay
+    * show immediately and without delay
     * mark hidden and open apps
     
 # Apps
