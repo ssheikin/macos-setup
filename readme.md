@@ -12,10 +12,10 @@ Configure only necessary shortcuts, disable others.
 ### Mission Control
 |                                        |                        |
 |----------------------------------------|------------------------|
-|Mission Control                         |^ up                    |
+|Mission Control                         |^ option shift cmd up   |
 |____Move left a space                   |^ option shift cmd left |                   
 |____Move right a space                  |^ option shift cmd right|                    
-|Application windows                     |^ down                  |  
+|Application windows                     |^ option shift cmd down |  
                    
 ### Keyboard
 |                                        |                        |
@@ -34,8 +34,7 @@ Remap the key bindings of a single user on MacOS to more closely match default b
 This makes the Command key behave like PC Control key. 
 
 ```
-curl https://gist.githubusercontent.com/zaz968m/86c7c32b54743b725fb4a86f2335b4b3/raw/ab7c868a8354219782b37971f984564c66a53d78/DefaultKeyBinding.dict \
-    -o ~/Library/KeyBindings/DefaultKeyBinding.dict
+mkdir -p ~/Library/KeyBindings && cp ./KeyBindings/DefaultKeyBinding.dict ~/Library/KeyBindings/DefaultKeyBinding.dict
 ```
 
 ## Taskbar
