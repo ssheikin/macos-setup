@@ -1,3 +1,6 @@
+# Default behavior 
+https://apple.stackexchange.com/a/339215
+
 # Configs
 Disable intrusive animations
 `./desktop_environment/disable_animations.sh`
