@@ -94,6 +94,8 @@ config location: `~/.config/karabiner`
 alt within intellij does not work:
 https://github.com/pqrs-org/Karabiner-Elements/issues/1160
 
+remapping FN to left command works but the the F keys are still shown on the touch bar when pressed
+https://github.com/Shingyx/restart-karabiner-on-wake
 ## alt-tab
 Configure to show list of open windows
 
