@@ -29,6 +29,21 @@ Configure only necessary shortcuts, disable others.
 |----------------------------------------|------------------------|
 |Show Spotlight search                   |option Space            |
 
+### App shortcuts 
+https://apple.stackexchange.com/questions/115562/how-do-i-disable-the-minimize-command-m-shortcut-in-mavericks
+
+|                                        |                        |
+|----------------------------------------|------------------------|
+|Minimise                                |^ M                     |   
+|Minimize                                |^ M                     |   
+|Hide Others                             |^ option H              |
+|Minimise All                            |^ option M              |  
+|Hide Calendar                           |^ H                     |
+|Hide Google Chrome                      |^ H                     |
+|Hide Slack                              |^ H                     |
+|Hide Mail                               |^ H                     |
+|Hide IntelliJ IDEA                      |^ H                     |
+
 ## KeyBindings
 Remap the key bindings of a single user on MacOS to more closely match default behavior on PC systems. 
 This makes the Command key behave like PC Control key. 
