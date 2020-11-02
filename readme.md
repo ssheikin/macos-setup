@@ -48,6 +48,9 @@ https://apple.stackexchange.com/questions/115562/how-do-i-disable-the-minimize-c
 |Hide IntelliJ IDEA                      |^ H                     |
 
 ## KeyBindings
+
+http://www.hcs.harvard.edu/~jrus/site/cocoa-text.html
+
 Remap the key bindings of a single user on MacOS to more closely match default behavior on PC systems. 
 This makes the Command key behave like PC Control key. 
 
