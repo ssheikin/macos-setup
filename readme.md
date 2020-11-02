@@ -66,6 +66,7 @@ As no better solution found so far utilize the built-in dock.
 * done via disable_animations.sh
     * show immediately and without delay
     * mark hidden and open apps
+* Display Dock in Touch Bar
     
 # Apps
 
@@ -76,6 +77,7 @@ As no better solution found so far utilize the built-in dock.
 * https://fman.io/ dual-pane file manager
 * https://maccy.app/ clipboard manager
 * https://www.iterm2.com/ terminal
+* https://pock.dev/ Display macOS Dock in Touch Bar
 
 ## Install
 
@@ -87,6 +89,7 @@ brew cask install rectangle
 brew cask install fman
 brew cask install maccy
 brew cask install iterm2
+brew cask install pock
 ```
 
 ## karabiner
@@ -102,6 +105,7 @@ https://github.com/pqrs-org/Karabiner-Elements/issues/1160
 
 remapping FN to left command works but the the F keys are still shown on the touch bar when pressed
 https://github.com/Shingyx/restart-karabiner-on-wake
+
 ## alt-tab
 Configure to show list of open windows
 
