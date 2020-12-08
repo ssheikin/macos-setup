@@ -77,6 +77,7 @@ As no better solution found so far utilize the built-in dock.
 * https://fman.io/ dual-pane file manager
 * https://maccy.app/ clipboard manager
 * https://www.iterm2.com/ terminal
+* https://github.com/gbammc/Thor open applications by a shortcut
 * https://pock.dev/ Display macOS Dock in Touch Bar
 
 ## Install
@@ -89,6 +90,7 @@ brew cask install rectangle
 brew cask install fman
 brew cask install maccy
 brew cask install iterm2
+brew cask install thor
 brew cask install pock
 ```
 
